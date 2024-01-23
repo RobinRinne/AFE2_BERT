@@ -2,7 +2,7 @@
 
 This repository contains the .ipynb file for training and testing a BERT model on German Fake News, using inter alia the [FANG-COVID: A New Large-Scale Benchmark Dataset for Fake News Detection in German](https://github.com/justusmattern/fang-covid).
 
-This repository contains the German fake news dataset "FANG-COVID" introduced in FANG-COVID: A New Large-Scale Benchmark Dataset for Fake News Detection in German.
+This project is part of the AFE2 at Hochschule Luzern (HSLU)
 
 
 
